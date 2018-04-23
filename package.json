@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "import-sort": "^4.2.0",
+    "import-sort-parser-babylon": "^4.2.0",
+    "import-sort-style-structured": "file:/Users/alin/Github/alin23/import-sort-style-structured",
+    "uglifyjs-webpack-plugin": "^1.2.4"
+  }
+}
