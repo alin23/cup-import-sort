@@ -308,8 +308,9 @@ import-sort-parser@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/import-sort-parser/-/import-sort-parser-4.2.0.tgz#c8263e2c015e77a554e51b319e0006da488d2937"
 
-"import-sort-style-structured@file:/Users/alin/Github/alin23/import-sort-style-structured":
-  version "0.0.6"
+import-sort-style-structured@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/import-sort-style-structured/-/import-sort-style-structured-1.0.0.tgz#7228f5fa69c4a532a09efa000670d01667ec14fc"
   dependencies:
     import-sort-style "^3.0.0"
 
