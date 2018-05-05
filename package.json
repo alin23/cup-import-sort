@@ -1,8 +1,18 @@
 {
-  "dependencies": {
-    "import-sort": "^4.2.0",
-    "import-sort-parser-babylon": "^4.2.0",
-    "import-sort-style-structured": "file:/Users/alin/Github/alin23/import-sort-style-structured",
-    "uglifyjs-webpack-plugin": "^1.2.4"
-  }
+    "dependencies": {
+        "import-sort": "^4.2.0",
+        "import-sort-parser-babylon": "^4.2.0",
+        "import-sort-style-structured": "1.0.0",
+        "uglifyjs-webpack-plugin": "^1.2.4"
+    },
+    "name": "isort-coffee",
+    "version": "1.0.1",
+    "description": "Import sorter for CoffeeScript",
+    "main": "src/index.js",
+    "repository": "git@github.com:alin23/cup-import-sort",
+    "author": "Alin Panaitiu <alin.p32@gmail.com>",
+    "bin": {
+        "isort-coffee": "src/index.js"
+    },
+    "license": "MIT"
 }
